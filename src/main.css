@@ -1,0 +1,17 @@
+* {
+    font-family: 'Calibri';
+}
+* h1 {
+    color: red;
+}
+.son618b {
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px black;
+    font-size: 20px;
+    background-color: cyan;
+}
+.son618b:hover {
+    transform: translateY(-10px);
+}
